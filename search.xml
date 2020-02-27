@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>hexo文章模板</title>
+      <link href="/posts/39968.html"/>
+      <url>/posts/39968.html</url>
+      
+        <content type="html"><![CDATA[<p>内容</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 未分类 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+            <tag> 标签2 </tag>
+            
+            <tag> 标签3 </tag>
+            
+            <tag> 标签4 </tag>
+            
+            <tag> 标签5 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>中医药门户网站推荐</title>
       <link href="/posts/24081.html"/>
       <url>/posts/24081.html</url>
